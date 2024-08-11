@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: https://github.com/Nabila55/DevOps-test-project1.git
         uses: actions/checkout@v2
 
       - name: Set up Google Cloud SDK
