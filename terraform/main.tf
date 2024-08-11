@@ -1,3 +1,4 @@
+
 provider "google" {
   project     = "devops-test-project-432119"
   region      = "us-central1"
