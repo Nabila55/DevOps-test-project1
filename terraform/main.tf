@@ -17,7 +17,7 @@ resource "google_sql_database_instance" "db_instance" {
 
 resource "google_storage_bucket" "static_bucket" {
   name     = "my-static-files-bucket"
-  location = "US"
+  location = "us-central1"
 }
 
 resource "google_cloud_run_service" "php_service" {

@@ -1,7 +1,7 @@
 # variables.tf
 
 variable "project_id" {
-  description = "The ID of the Google Cloud project"
+  description = "devops-test-project-432119"
   type        = string
 }
 
